@@ -11,6 +11,6 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 - Seaborn
 - matplotlib.pyplot
 
-## 2. The repository files:
+## 3. The repository files:
 - Dataset File: the dataset that I used in this project
 - Jupyter Notebook: to explore the dataset
