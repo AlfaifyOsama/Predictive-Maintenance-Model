@@ -1,3 +1,4 @@
+![Predictive-Maintenance-Model](https://ibb.co/ngknGMK)
 # Predictive-Maintenance-Model
 Here is the Medium blog post I have written: https://medium.com/@osamalfaify/predictive-maintenance-problem-d472ee59ba68
 
@@ -16,3 +17,17 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 ## 3. The repository files:
 - Dataset File: the dataset that I used in this project
 - Jupyter Notebook: to explore the dataset
+
+## 4. Summary of Results
+In this project I worked on expolring a manufacturer's dataset and I found the following:
+- There is a strong relationship between the temperature features which is clear due to the impact of the weather on the pumped fluid.
+- By control the air\ process temperature low, we can ensure that the rotational speed does not exceed its maximum value, which could cause the pump to break.
+- 
+## 5. Acknowledgments
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Sklearn](https://scikit-learn.org/)
+- [Seaborn](https://seaborn.pydata.org)
+- [matplotlib](https://matplotlib.org)
+- [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Your Project is Great, So Let’s Make Your README Great Too](https://embeddedartistry.com/blog/2017/11/27/your-project-is-great-so-lets-make-your-readme-great-too/)
