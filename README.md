@@ -22,7 +22,7 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 In this project I worked on expolring a manufacturer's dataset and I found the following:
 - There is a strong relationship between the temperature features which is clear due to the impact of the weather on the pumped fluid.
 - By control the air\ process temperature low, we can ensure that the rotational speed does not exceed its maximum value, which could cause the pump to break.
-- 
+
 ## 5. Acknowledgments
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
