@@ -1,4 +1,4 @@
-![Predictive-Maintenance-Model](https://ibb.co/ngknGMK)
+![Predictive-Maintenance-Model](/Picture1.jpg)
 # Predictive-Maintenance-Model
 Here is the Medium blog post I have written: https://medium.com/@osamalfaify/predictive-maintenance-problem-d472ee59ba68
 
